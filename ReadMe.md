@@ -29,4 +29,5 @@ This program contains following api:
 Please note since Spring security is used in the application, once you start the  credentials are required for login.
 
 Username : user
+
 Password: Once the application is started the password is created and printed in the console. 
