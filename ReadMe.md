@@ -25,3 +25,7 @@ This program contains following api:
 1. http://localhost:8090/ or http://localhost:8090/Phonenumbers : for viewing all the exisitng Phone numbers irrespective of the Customer.
 2.  http://localhost:8090/Phonenumbers/{fullname} : for retrieving the phone numbers of a particular customer.
 3. http://localhost:8090/Phonenumbers/{phonenumber}/enable/{enable} : to activate an particular phone number.
+
+Please note since Spring security is used in the application, once you start the  credentials are required for login. 
+Ysername : user
+Password: Once the application is started the password is created and printed in the console. 
